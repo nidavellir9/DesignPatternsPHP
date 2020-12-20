@@ -1,2 +1,1 @@
-# factoryMethod
-Trainnig of Factory Method Pattern
+# Trainnig Factory Method Pattern

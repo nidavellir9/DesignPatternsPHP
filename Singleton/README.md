@@ -1,0 +1,1 @@
+# Trainnig Singleton Pattern

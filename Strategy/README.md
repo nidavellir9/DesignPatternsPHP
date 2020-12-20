@@ -1,2 +1,1 @@
-# strategy
-Trainnig of Strategy Pattern
+# Trainnig Strategy Pattern
