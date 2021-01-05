@@ -45,11 +45,7 @@ function loadProductData(FormElement $form)
  */
 function renderProduct(FormElement $form)
 {
-    // ..
-
     echo $form->render();
-
-    // ..
 }
 
 $form = getProductForm();
