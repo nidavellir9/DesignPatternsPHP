@@ -1,7 +1,12 @@
 {
     "autoload": {
         "classmap": [
-            "AbstractFactory/"
+            "AbstractFactory/",
+            "Strategy/",
+            "Singleton/",
+            "Adapter",
+            "Decorator",
+            "Observer"
         ]
     },
     "require-dev": {
