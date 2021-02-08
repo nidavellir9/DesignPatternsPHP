@@ -10,8 +10,10 @@ Vestir ropa es un ejemplo del uso de decoradores. Cuando tienes frío, te cubres
 
 Decorator is a useful pattern that will make adding new functionality to your code easier.
 
+Decorator, attach additional responsibilities to an object dynamically. For example adding sugar in a coffee.
+
 Decorator has the following elements (in Sells example):
 - Component (Product): defines an interface of elements that can be decorated
-- Concrete component (TV, Shirt ): implementation of Component
-- Decorator (ProductDecorator ): defines an interface of Decorators
-- Concrete Decorator (SummerSale, WinterSale ): implementations of Decorator
+- Concrete component (TV, Shirt): implementation of Component
+- Decorator (ProductDecorator): defines an interface of Decorators
+- Concrete Decorator (SummerSale, WinterSale): implementations of Decorator
