@@ -1,5 +1,7 @@
 # Trainnig Observer Pattern
 
+Observer es un patrón de diseño de comportamiento.
+
 Define a one-to-many dependency between objects so that when one object changes state, all its dependents are notified and updated automatically.
 
 The observer makes communication between components easier.
